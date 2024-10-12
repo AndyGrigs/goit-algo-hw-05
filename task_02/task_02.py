@@ -16,6 +16,7 @@ def bi_search(arr, target):
             upper = arr[mid]
             right = mid - 1
 
+
     if left < len(arr):
         upper = arr[left]
 
